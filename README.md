@@ -1,6 +1,7 @@
 # Twitter Clone
 
-A twitter like application made with react-redux, you can create tweets, reply to tweets, like tweets and also view different tweets and replies and lot more!
+A twitter-like application made with react-redux, you can create tweets, reply to tweets, like tweets and also view different tweets and replies and a lot more!
+
 #### Link To The Website : https://bit.ly/2MXA3Qq
 ## Project Setup
 
