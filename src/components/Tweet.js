@@ -43,7 +43,6 @@ class Tweets extends Component {
         id,
     } = tweet;
 
-    console.log(this.props);
     return (
       <Link to={`/tweet/${id}`} className={"tweet"}>
         <img src={avatar} alt={`Avatar of ${name}`} className={"avatar"} />
